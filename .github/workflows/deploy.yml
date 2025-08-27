@@ -2,8 +2,8 @@ name: Build & Deploy Vite to GitHub Pages
 
 on:
   push:
-    branches: [ main ]   # Runs whenever you push to main
-  workflow_dispatch:      # Lets you trigger manually in Actions tab
+    branches: [ main ]
+  workflow_dispatch:
 
 permissions:
   contents: read
