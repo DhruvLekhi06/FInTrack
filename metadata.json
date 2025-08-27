@@ -1,0 +1,7 @@
+{
+  "name": "FinTrack India",
+  "description": "A personal finance tracking system tailored for people living in India, featuring AI-powered insights, multi-language support, and goal setting in a clean, modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
